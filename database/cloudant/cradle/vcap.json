@@ -1,0 +1,7 @@
+{
+    "cloudantNoSQLDB": [
+        {
+            "readme" : "Copy your VCAP_SERVICES contents from your Bluemix application."
+        }
+    ]
+}
